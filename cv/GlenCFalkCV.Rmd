@@ -74,7 +74,7 @@ Thesis: Dyadic wavelet and its application in edge detection
 
 M.B.A.
 
-Beijing, China
+West Long Branch, N.J.
 
 1991
 
@@ -94,13 +94,13 @@ Austin, Texas
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Research Analyst
 
-SupStat Inc.
+The University of Georgia.
 
-Beijing, China
+Athens, Georgiaa
 
-2014
+2019
 
 ::: concise
 - Taught R language to beginners. 
