@@ -12,26 +12,26 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Glen C. Falk](/../GlenCFalk/public/images/GlenCFalk.png){width=80%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> glen.falkk.utexas.edu
-- <i class="fa fa-github"></i> [github.com/utexas80](https://github.com/utexas80)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
+- <i class="fa fa-envelope"></i> [email](mailto:glen.falk@utexas.edu)
+- <i class="fa fa-linkedin"></i> [linkedIn](linkedin.com/in/glen-falk)
+- <i class="fa fa-github"></i> [github](https://github.com/utexas80)
+- <i class="fa fa-phone"></i> +1 706-705-2775
 
 
-Skills {#skills}
+
+Expertise {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- R programming language: 
+- Business Intelligence
+- Data Analytics, Mining & Reporting
+- Highly skilled in CSS, HTML, SQL
 
 
 Disclaimer {#disclaimer}
@@ -51,10 +51,10 @@ Glen C. Falk {#title}
 
 ### Currently searching for a Solution Engineer position
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+Highly poised, client-centric, results-driven problem-solver and IT Professional with extensive experience and success in the education, insurance, and utilities industries. Demonstrated ability to successfully manage multiple priorities and responsibilities while thriving in a dynamic environment. Proven ability to collaborate effectively with management,clients, and across functional groups and effectively communicate technical material clearly to them.
+Extremely proficient in Integrating and organizing data from multiple sources for use in reporting and analysis. 
+
+If you are interested in my background and skills, please feel free to contact me.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -98,9 +98,9 @@ Professional Experience {data-icon=suitcase}
 
 The University of Georgia.
 
-Athens, Georgiaa
+Athens, Georgia
 
-2019
+2016 - 2019
 
 ::: concise
 - Taught R language to beginners. 
@@ -108,13 +108,17 @@ Athens, Georgiaa
 - Converted statistical tutorials from SPSS to R language.
 :::
 
-### Bioinformatician
+::: aside
+Some notes in the sidebar.
+:::
 
-My Health Gene Technology Co., Ltd.
+### Data Management Specialist
 
-Beijing, China
+The University of Georgia.
 
-2015 - 2016
+Athens, Georgia
+
+2010 - 2016
 
 ::: concise
 - Analyzed whole-exome sequencing data. 
@@ -124,7 +128,7 @@ Beijing, China
 :::
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+R Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### Introduction to R Language for Beginners.
