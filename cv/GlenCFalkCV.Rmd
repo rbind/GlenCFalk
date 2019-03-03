@@ -89,7 +89,7 @@ Undergraduate {data-icon=laptop}
 B.B.A. Finance
 
 Austin, Texas
-  
+   
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
