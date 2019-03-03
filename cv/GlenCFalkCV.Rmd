@@ -68,7 +68,7 @@ Athens, Georgia
 
 2017
 
-Thesis: Dyadic wavelet and its application in edge detection
+Concentration: Full Stack Development
 
 ### Monmouth University
 
@@ -78,7 +78,7 @@ West Long Branch, N.J.
 
 1991
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+Concentration: Management Information Systems
 
 
 Undergraduate {data-icon=laptop}

@@ -2,7 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "D:\\GitHub\\ProjectTemplate"
 		}
-	],
-	"settings": {}
+	]
 }
