@@ -28,11 +28,11 @@ Contact Info {#contact}
 Expertise {#skills}
 --------------------------------------------------------------------------------
 
-- R programming language: 
+- R programming language
+- tidyverse, R Markdown, Shiny
+- CSS, HTML, JavaScript, JSON
 - Business Intelligence
 - Data Analytics, Mining & Reporting
-- Highly skilled in CSS, HTML, SQL
-
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -49,14 +49,89 @@ Main
 Glen C. Falk {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a Solution Engineer position
+### Currently searching for a Solutions Engineer position
 
-Highly poised, client-centric, results-driven problem-solver and IT Professional with extensive experience and success in the education, insurance, and utilities industries. Demonstrated ability to successfully manage multiple priorities and responsibilities while thriving in a dynamic environment. Proven ability to collaborate effectively with management,clients, and across functional groups and effectively communicate technical material clearly to them.
-Extremely proficient in Integrating and organizing data from multiple sources for use in reporting and analysis. 
+- Highly poised, client-centric, results-driven problem-solver and IT Professional with extensive experience and success in the education, insurance, and utilities industries. 
+- Demonstrated ability to successfully manage multiple projects and responsibilities while thriving in a dynamic environment. 
+- Proven ability to collaborate effectively with management,clients, and across functional groups and effectively communicate technical material clearly to them.
+- Extremely proficient in Integrating and organizing data from multiple sources for use in reporting and analysis. 
 
 If you are interested in my background and skills, please feel free to contact me.
 
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
 
+### Data Engineer Consultant
+
+CapVisor Associates LLC
+
+Remote
+
+2019
+
+::: concise
+- Execute and troubleshoot existing R client reporting platform.
+- Develop new PowerBI reporting capabilities/enhancements.
+- Create troubleshooting and development documentation.
+- Provide remote support and finance/portfolio expertise.
+:::
+
+### Research Analyst
+
+The University of Georgia
+
+Athens, Georgia
+
+2019 - 2016
+
+::: concise
+- Developed an R based AI Natural Language solution 
+- Utilizes Machine Learning to text mine candidate profiles and quantitatively evaluate the best match for a job posting. 
+- Responsible for the development of the R based Scholarship Reporting database
+- integrates Argos, Banner, PL/SQL and Power Bi to track the Ga. Commitment Scholarship Initiative.
+:::
+
+### Data Management Specialist
+
+The University of Georgia
+
+Athens, Georgia
+
+2016 - 2010
+
+::: concise
+- Collect, maintain, analyze and distribute data related to buildings and other facilities associated with UGA. 
+- Assist in the preparation of special analyses, ad hoc studies and reports
+:::
+
+### Technical Product Manager
+
+Oil Price Information Service
+
+Wall, NJ
+
+2010 - 2005
+
+::: concise
+- Monitor and assess current data collection methods.
+- Formulate process improvements to improve operational effectiveness.
+- Streamlined reporting workflow resulting in a 75% runtime reduction.
+:::
+
+### Team Lead-Systems Consulting
+
+Prudential Financial
+
+Holmdel, NJ
+
+2005 - 1998
+
+::: concise
+- Developed recommendations and proposals detailing technology solutions and alternatives.
+- Provided high-level specialized technical support and consultation.
+:::
+
+*****
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -68,7 +143,9 @@ Athens, Georgia
 
 2017
 
+::: aside
 Concentration: Full Stack Development
+:::
 
 ### Monmouth University
 
@@ -78,7 +155,10 @@ West Long Branch, N.J.
 
 1991
 
+
+::: aside
 Concentration: Management Information Systems
+:::
 
 
 Undergraduate {data-icon=laptop}
@@ -89,43 +169,6 @@ Undergraduate {data-icon=laptop}
 B.B.A. Finance
 
 Austin, Texas
-   
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Research Analyst
-
-The University of Georgia.
-
-Athens, Georgia
-
-2016 - 2019
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-::: aside
-Some notes in the sidebar.
-:::
-
-### Data Management Specialist
-
-The University of Georgia.
-
-Athens, Georgia
-
-2010 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
 
 
 R Experience {data-icon=chalkboard-teacher}
