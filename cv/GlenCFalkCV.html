@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Glen C Falk" />
-    <meta name="date" content="2019-03-03" />
+    <meta name="date" content="2019-03-04" />
     <title>Glen C Falk’s resume</title>
 
         <link href="GlenCFalkCV_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="GlenCFalkCV_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <link href="GlenCFalkCV_files/paged-0.1.9/css/resume.css" rel="stylesheet" />
-    <script src="GlenCFalkCV_files/paged-0.1.9/js/config.js"></script>
-    <script src="GlenCFalkCV_files/paged-0.1.9/js/paged.js"></script>
-    <script src="GlenCFalkCV_files/paged-0.1.9/js/hooks.js"></script>
+    <link href="GlenCFalkCV_files/paged-0.1/css/resume.css" rel="stylesheet" />
+    <script src="GlenCFalkCV_files/paged-0.1/js/config.js"></script>
+    <script src="GlenCFalkCV_files/paged-0.1/js/paged.js"></script>
+    <script src="GlenCFalkCV_files/paged-0.1/js/hooks.js"></script>
     
     
   </head>
@@ -45,7 +45,7 @@
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>Last updated on 2019-03-03.</p>
+<p>Last updated on 2019-03-04.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -154,18 +154,16 @@ Extremely proficient in Integrating and organizing data from multiple sources fo
 <script>
 (function() {
   var i, s, j, el, els;
-  var create_el = function(type, className, content, isHTML) {
+  var create_el = function(type, className, content) {
     var el = document.createElement(type);
     if (className) el.className = className;
-    if (content) {
-      if (isHTML) {el.innerHTML = content;} else {el.innerText = content;}
-    }
+    if (content) el.innerText = content;
     return el;
   }
 
   // replace h2 title with h1
   var title = document.getElementById('title').querySelector('h2');
-  title.parentNode.replaceChild(create_el('h1', false, title.innerHTML, true), title);
+  title.parentNode.replaceChild(create_el('h1', false, title.innerText), title);
 
   // add the class .aside to #aside
   el = document.getElementById('aside');
@@ -193,8 +191,7 @@ Extremely proficient in Integrating and organizing data from multiple sources fo
     var ps = el.querySelectorAll('p');
     // move the date paragraph to the date div
     if (ps.length >= 3) {
-      s = ps[2].innerText;
-      s = s === 'N/A' ? [] : s.split(' - ');
+      s = ps[2].innerText.split(' - ');
       el.removeChild(ps[2]);
       for (j = 0; j < s.length && j < 2; j++) {
         el.children[0].appendChild(create_el('span', false, s[j]))
@@ -203,14 +200,14 @@ Extremely proficient in Integrating and organizing data from multiple sources fo
     // move title, description, location to the details div
     (function(h) {
       h.appendChild(el.children[3]);
-      var p = el.children[3];  // description
-      if (p.innerText !== 'N/A') {
-        h.appendChild(create_el('span', 'place', p.innerHTML, true));
+      var p = el.children[3], s = p.innerText;  // description
+      if (s !== 'N/A') {
+        h.appendChild(create_el('span', 'place', s));
       }
       el.removeChild(p);
-      p = el.children[3];  // location
-      if (p.innerText !== 'N/A') {
-        s = create_el('span', 'location', p.innerHTML, true);
+      p = el.children[3], s = p.innerText;  // location
+      if (s !== 'N/A') {
+        s = create_el('span', 'location', s);
         s.innerHTML = '<i class="fa fa-map-marker-alt"></i> ' + s.innerHTML;
         h.appendChild(s);
       }
