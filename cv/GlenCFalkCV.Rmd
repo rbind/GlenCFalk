@@ -12,7 +12,7 @@ Aside
 ================================================================================
 
 
-![Glen C. Falk](/../GlenCFalk/public/images/GlenCFalk.png){width=80%}
+![Glen Falk](../public/images/glego.png){width=80%}
 
 
 Contact Info {#contact}
