@@ -14,6 +14,11 @@ Aside
 
 ![Glen Falk](../public/images/glego.png){width=80%}
 
+customer-centric, results-driven problem-solver who can
+clearly communicate technical materials and 
+managing multple data/analytic products while thriving 
+in a dynamic environment
+
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -28,11 +33,16 @@ Contact Info {#contact}
 Expertise {#skills}
 --------------------------------------------------------------------------------
 
-- R programming language
-- tidyverse, R Markdown, Shiny
-- CSS, HTML, JavaScript, JSON
-- Business Intelligence
-- Data Analytics, Mining & Reporting
+- R programming language  
+
+- tidyverse, R Markdown, Shiny  
+
+- CSS, HTML, JavaScript, JSON  
+
+- Business Intelligence 
+
+- Data Analytics, Mining & Reporting  
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -49,14 +59,9 @@ Main
 Glen C. Falk {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a Solutions Engineer position
+### Solutions Engineer
 
-- Highly poised, client-centric, results-driven problem-solver and IT Professional with extensive experience and success in the education, insurance, and utilities industries. 
-- Demonstrated ability to successfully manage multiple projects and responsibilities while thriving in a dynamic environment. 
-- Proven ability to collaborate effectively with management,clients, and across functional groups and effectively communicate technical material clearly to them.
-- Extremely proficient in Integrating and organizing data from multiple sources for use in reporting and analysis. 
 
-If you are interested in my background and skills, please feel free to contact me.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -67,15 +72,18 @@ CapVisor Associates LLC
 
 Remote
 
-2019
+2019 - 2018
 
 ::: concise
-- Execute and troubleshoot existing R client reporting platform.
-- Develop new PowerBI reporting capabilities/enhancements.
-- Create troubleshooting and development documentation.
-- Provide remote support and finance/portfolio expertise.
+*Responsibilities:*  
+- Execute and troubleshoot existing R client reporting platform.  
+- Develop new PowerBI reporting capabilities/enhancements.  
+- Create troubleshooting and development documentation.  
+- Provide remote support and finance/portfolio expertise.  
+*Key Achievements:*   
+- Devloped processes to circumvent existing data validation issues.  
+- Function as a key contributor to CapVisor's conversion to PowerBI.  
 :::
-
 ### Research Analyst
 
 The University of Georgia
@@ -85,10 +93,13 @@ Athens, Georgia
 2019 - 2016
 
 ::: concise
-- Developed an R based AI Natural Language solution 
-- Utilizes Machine Learning to text mine candidate profiles and quantitatively evaluate the best match for a job posting. 
-- Responsible for the development of the R based Scholarship Reporting database
-- integrates Argos, Banner, PL/SQL and Power Bi to track the Ga. Commitment Scholarship Initiative.
+*Responsibilities:*  
+- involved in the analytical & technical aspects of financial aid research.  
+- Design research projects and supervise the collection/analysis of data.  
+- Interpret findings and organize conclusions in a suitable format.  
+*Key Achievements:*   
+- Devloped a NLP solution that utilizes ML to text mine candidate profiles and quantitatively evaluate the best matches for job postings.  
+- Created an R based reporting database that integrates Argos, Banner, PL/SQL and Power Bi to help track scholarship initiatives.  
 :::
 
 ### Data Management Specialist
@@ -100,8 +111,11 @@ Athens, Georgia
 2016 - 2010
 
 ::: concise
-- Collect, maintain, analyze and distribute data related to buildings and other facilities associated with UGA. 
-- Assist in the preparation of special analyses, ad hoc studies and reports
+*Responsibilities:*  
+- Collect, maintain, analyze and distribute data related to UGA facilities.   
+- Assist in the preparation of special analyses, ad hoc studies and reports.  
+*Key Achievements:*   
+- Devised an MSAccess interface that helped improve data integrity by 25%.  
 :::
 
 ### Technical Product Manager
@@ -113,9 +127,11 @@ Wall, NJ
 2010 - 2005
 
 ::: concise
-- Monitor and assess current data collection methods.
-- Formulate process improvements to improve operational effectiveness.
-- Streamlined reporting workflow resulting in a 75% runtime reduction.
+*Responsibilities:*  
+- Monitor and assess current data collection methods.  
+- Formulate process improvements to improve operational effectiveness.  
+*Key Achievements:*  
+- Streamlined reporting workflow resulting in a 75% runtime reduction.  
 :::
 
 ### Team Lead-Systems Consulting
@@ -127,8 +143,9 @@ Holmdel, NJ
 2005 - 1998
 
 ::: concise
-- Developed recommendations and proposals detailing technology solutions and alternatives.
-- Provided high-level specialized technical support and consultation.
+*Responsibilities:*  
+- Performed technical studies and evaluated business area requirements.  
+- Provided high-level specialized technical support and consultation.  
 :::
 
 *****
@@ -171,45 +188,46 @@ B.B.A. Finance
 Austin, Texas
 
 
-R Experience {data-icon=chalkboard-teacher}
+Additional R Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Undergraduate Admissions Dashboard
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Created Shiny App to 
 
-Beijing, China
+Cloud
 
-2014
+2019
 
-### Computational Biology and Bioinformatics.
+### Quantitative Investment Portfolio Analytics 
 
-Teaching assistant of GBS CB2-201 courses at UAB
+Created a personalized Quantitative Investment Portfolio.
+Employed tidyquant, quantmod, TTR packages.  
+Data visualized in PowerBI.  
 
-AL, USA
+Cloud
 
-2016 - 2017
+2017
 
 
-Selected Publications and Posters {data-icon=file}
+Influencer Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Quantitative trading with R
 
-Poster for 2013 International Conference of Genomics
+Harry Georgakopoulos
 
-Qingdao, China
+.
 
-2014
+2018
 
-**Yu L**, Chen B, Zhang Z.
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+### Automated Trading with R
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+**Chris Conlan**
 
-N/A
+.
 
-2016 
+2018 
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+
