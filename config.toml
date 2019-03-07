@@ -1,6 +1,7 @@
 baseURL                          = "http://glen.c.falk.rbind.io/"  # Your domain name. Must end with "/"
 theme = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                     # Default language for multilingual sites
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
