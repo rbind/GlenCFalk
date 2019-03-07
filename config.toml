@@ -5,6 +5,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
 
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[context.deploy-preview]
+  command = "npm run build-preview"
+
 [params]
     themeStyle                   = "dark"                 # Choose "light" or "dark"
     favicon                      = "/img/fav.ico"          # Path to favicon file
