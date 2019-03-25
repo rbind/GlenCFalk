@@ -129,3 +129,4 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Projects"
     url        = "posts/"
+        
