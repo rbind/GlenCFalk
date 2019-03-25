@@ -11,7 +11,7 @@ title: Education
 
 ---
 
-#### The University of Georgia - Masters in Internet Technology - Athens, Georgia
+#### University of Georgia - Online Masters - Internet Technology - Athens, Ga.
 
 *Concentration:*  Full Stack Development
 
