@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Glen C. Falk</title>
+    <link>/tags/markdown/</link>
+    <description>Recent content in Markdown on Glen C. Falk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R Website</title>
+      <link>/posts/2019/03/r-website/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/03/r-website/</guid>
+      <description>This is my initial foray into publishing a website with R.
+Glen C. Falk&amp;rsquo;s Personal Website This is Glen C. Falk&amp;rsquo;s personal website. It is created with Hugo and blogdown, with the theme of hello-friend-ng. The source file of the website is hosted on Github and is served on netlify.
+Built With  blogdown- R package. Netlify - Static web host. rbind.io - Community blogs and websites for #rstats.  License This website is licensed under the MIT License - see the LICENSE.</description>
+    </item>
+    
+  </channel>
+</rss>

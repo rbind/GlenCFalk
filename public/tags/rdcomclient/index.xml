@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rdcomclient on Glen C. Falk</title>
+    <link>/tags/rdcomclient/</link>
+    <description>Recent content in Rdcomclient on Glen C. Falk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rdcomclient/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Client Reporting Platform</title>
+      <link>/posts/2018/03/client-reporting-platform/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018/03/client-reporting-platform/</guid>
+      <description>Architected, deployed and maintained a sophisticated client reporting platform developed in R. Developed Tidyverse solutions to circumvent input validation issues.  Built With  R - R programming language. ReporteRs - R package. rJava - R package.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Special Thanks to Joshua Ulrich for pointing out the significance of reprex to me.</description>
+    </item>
+    
+  </channel>
+</rss>

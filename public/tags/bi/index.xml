@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bi on Glen C. Falk</title>
+    <link>/tags/bi/</link>
+    <description>Recent content in Bi on Glen C. Falk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerBI Portfolio Analysis</title>
+      <link>/posts/2018/03/powerbi-portfolio-analysis/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018/03/powerbi-portfolio-analysis/</guid>
+      <description>Functioned as an R expert providing ReporteRs and rJava package support. Architected, deployed and maintained a sophisticated client reporting platform developed in R. Developed Tidyverse solutions to circumvent input validation issues and improve the data entry process resulting in a 50% improvement in Quarterly processing completion time. Built knowledge base of troubleshooting and development documentation. Thie BI visualizations are powered by R. Provided remote support and financial reporting expertise.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Glen C. Falk</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on Glen C. Falk</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>R Website</title>
+            <link>/posts/2019/03/r-website/</link>
+            <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/03/r-website/</guid>
+            <description>This is my initial foray into publishing a website with R.
+Glen C. Falk&amp;rsquo;s Personal Website This is Glen C. Falk&amp;rsquo;s personal website. It is created with Hugo and blogdown, with the theme of hello-friend-ng. The source file of the website is hosted on Github and is served on netlify.
+Built With  blogdown- R package. Netlify - Static web host. rbind.io - Community blogs and websites for #rstats.  License This website is licensed under the MIT License - see the LICENSE.</description>
+            <content type="html"><![CDATA[
+
+<p>This is my initial foray into publishing a website with R.</p>
+
+<h2 id="glen-c-falk-s-personal-website">Glen C. Falk&rsquo;s Personal Website</h2>
+
+<p>This is <a href="https://glenfalk.rbind.io/" target="_blank">Glen C. Falk&rsquo;s</a> personal website. It is created with <a href="https://gohugo.io" target="_blank">Hugo</a> and <a href="https://bookdown.org/yihui/blogdown/" target="_blank">blogdown</a>, with the theme of <em><a href="https://themes.gohugo.io/hugo-theme-hello-friend-ng/" target="_blank">hello-friend-ng</a>.</em>  The source file of the website is hosted on <a href="https://github.com/rbind/GlenFalk" target="_blank">Github</a> and is served on <a href="https://app.netlify.com" target="_blank">netlify</a>.</p>
+
+<h2 id="built-with">Built With</h2>
+
+<ul>
+<li><a href="https://github.com/rstudio/blogdown" target="_blank"><strong>blogdown</strong></a>- R package.</li>
+<li><a href="https://www.netlify.com/" target="_blank"><strong>Netlify</strong></a> - Static web host.</li>
+<li><a href="https://github.com/rbind" target="_blank"><strong>rbind.io</strong></a> - Community blogs and websites for #rstats.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Thanks to <a href="https://github.com/Aariq" target="_blank">Eric Scott</a> for the <a href="http://www.ericrscott.com/2017/12/19/making-a-website-in-rstudio/" target="_blank">Making a website in RStudio</a> post. I wouldn&rsquo;t been able to create this website without Eric&rsquo;s assistance.</li>
+<li><a href="https://nanx.me/" target="_blank">Nan Xiao</a> - Thank you for your patience in getting me up and running in rbind.</li>
+<li><a href="https://atlialp.com/about/" target="_blank">Djordje Atlialp</a> - Thank you for the Hello Friend NG Hugo Theme. It was exactly what I was looking for.</li>
+<li>Thanks to <a href="https://github.com/rstudio/blogdown" target="_blank">blogown</a> package from Yihui.</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>pagedown cv</title>
+            <link>/posts/2019/02/pagedown-cv/</link>
+            <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/02/pagedown-cv/</guid>
+            <description>Created a Pagedown Resume for my personal CV. This ongoing process create paged HTML documents for printing from R Markdown. The source file of the website is hosted on Github.  Built With:  pagedown R - R programming language. R Markdown - R Markdown.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to:  Yihue Xie and Romain Lesur for the pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser presentation.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Created a <a href="https://github.com/rbind/GlenFalk/blob/master/docs/Resume/GlenCFalkWebsume.pdf" target="_blank">Pagedown Resume</a> for my personal CV.</li>
+<li>This ongoing process create paged HTML documents for printing from R Markdown.</li>
+<li>The source file of the website is hosted on <a href="https://github.com/UTexas80/GlenCFalkResume" target="_blank">Github</a>.</li>
+</ul>
+
+<h2 id="built-with">Built With:</h2>
+
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/pagedown/index.html" target="_blank"><strong>pagedown</strong></a></li>
+<li><a href="https://www.r-project.org/" target="_blank"><strong>R</strong></a> - R programming language.</li>
+<li><a href="https://rmarkdown.rstudio.com" target="_blank"><strong>R Markdown</strong></a> - R Markdown.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Thanks to:
+
+<ul>
+<li><a href="https://yihui.name/" target="_blank"><strong>Yihue Xie</strong></a> and <a href="https://github.com/RLesur" target="_blank"><strong>Romain Lesur</strong></a> for the <a href="https://slides.yihui.name/2019-rstudio-conf-pagedown.html#1" target="_blank">pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser</a> presentation.</li>
+<li><a href="http://svmiller.com/blog/2016/03/svm-r-markdown-cv/" target="_blank"><strong>Steven V. Miller</strong></a> for inspiration.</li>
+</ul></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Readability</title>
+            <link>/posts/2019/01/readability/</link>
+            <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/01/readability/</guid>
+            <description>Developed an ‘R’ NLP hiring solution that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.  Built With  qdap - Automates many of the tasks associated with quantitative discourse analysis. quanteda- R package for managing and analyzing textual data ProjectTemplate - a system for automating the thoughtless parts of a data analysis project. Readability = R package for fast calculation of readability.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Developed an <a href="http://rpubs.com/UTexas80/NLPML" target="_blank"><strong>‘R’ NLP hiring solution</strong></a> that utilizes ML to text mine applicant profiles and quantitatively evaluate the best matches for job postings.</li>
+</ul>
+
+<h2 id="built-with">Built With</h2>
+
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/qdap/index.html" target="_blank"><strong>qdap</strong></a> - Automates many of the tasks associated with quantitative discourse analysis.</li>
+<li><a href="https://quanteda.io" target="_blank"><strong>quanteda</strong></a>- R package for managing and analyzing textual data</li>
+<li><a href="http://projecttemplate.net" target="_blank"><strong>ProjectTemplate</strong></a> - a system for automating the thoughtless parts of a data analysis project.</li>
+<li><a href="https://github.com/trinker/readability" target="_blank"><strong>Readability</strong></a> = R package for fast calculation of readability.</li>
+<li><a href="https://cran.r-project.org/web/packages/wordcloud/index.html" target="_blank"><strong>Wordcloud</strong></a> - R package with functionality to create word clouds,</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li><a href="https://nanx.me/" target="_blank">Kenton White</a> - Thank you for your help with getting me up and running in ProjectTemplate.</li>
+<li><a href="https://www.rdocumentation.org/collaborators/name/Tyler%20Rinker" target="_blank">Tyler Rinker</a> for creating such a cool package.
+
+<br /></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Shiny Admissions Dashboard</title>
+            <link>/posts/2019/01/shiny-admissions-dashboard/</link>
+            <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2019/01/shiny-admissions-dashboard/</guid>
+            <description>Created a Shiny Admissions dashboard to analyze state institution enrollment trends. This is my first venture into creating a web-enabled dashboard with R. The source file of the website is hosted on Github and is served on rpubs.  Built With  rmarkdown - simple formatting syntax for authoring HTML, PDF, and MS Word documents. shiny - R package.  License This website is licensed under the MIT License - see the LICENSE.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Created a <a href="http://rpubs.com/UTexas80/MDHE" target="_blank">Shiny Admissions dashboard</a> to analyze state institution enrollment trends.</li>
+<li>This is my first venture into creating a web-enabled dashboard with R.</li>
+<li>The source file of the website is hosted on <a href="https://github.com/UTexas80/MU" target="_blank">Github</a> and is served on <a href="http://rpubs.com/UTexas80/MDHE" target="_blank">rpubs</a>.</li>
+</ul>
+
+<h2 id="built-with">Built With</h2>
+
+<ul>
+<li><a href="[https://github.com/rbind](https://rmarkdown.rstudio.com/)" target="_blank"><strong>rmarkdown</strong></a> - simple formatting syntax for authoring HTML, PDF, and MS Word documents.</li>
+<li><a href="https://www.rstudio.com/products/shiny/" target="_blank"><strong>shiny</strong></a> - R package.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Thanks to Yihui for his <a href="https://bookdown.org/yihui/rmarkdown/shiny-documents.html" target="_blank">Shiny tutorial</a>.</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Client Reporting Platform</title>
+            <link>/posts/2018/03/client-reporting-platform/</link>
+            <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2018/03/client-reporting-platform/</guid>
+            <description>Architected, deployed and maintained a sophisticated client reporting platform developed in R. Developed Tidyverse solutions to circumvent input validation issues.  Built With  R - R programming language. ReporteRs - R package. rJava - R package.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Special Thanks to Joshua Ulrich for pointing out the significance of reprex to me.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Architected, deployed and maintained a sophisticated client reporting platform developed in R.</li>
+<li>Developed Tidyverse solutions to circumvent input validation issues.</li>
+</ul>
+
+<h2 id="built-with">Built With</h2>
+
+<ul>
+<li><a href="https://www.r-project.org/" target="_blank"><strong>R</strong></a> - R programming language.</li>
+<li><a href="https://davidgohel.github.io/ReporteRs" target="_blank"><strong>ReporteRs</strong></a> - R package.</li>
+<li><a href="https://cran.r-project.org/web/packages/rJava/index.html" target="_blank"><strong>rJava</strong></a> - R package.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Special Thanks to <a href="https://www.patreon.com/joshuaulrich" target="_blank"><strong>Joshua Ulrich</strong></a> for pointing out the significance of <a href="https://community.rstudio.com/t/faq-whats-a-reproducible-example-reprex-and-how-do-i-do-one/5219" target="_blank">reprex</a> to me.</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>PowerBI Portfolio Analysis</title>
+            <link>/posts/2017/05/powerbi-portfolio-analysis/</link>
+            <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2017/05/powerbi-portfolio-analysis/</guid>
+            <description>Created a PowerBI Fintech app to analyze my personal portfolio. Thie BI visualizations are powered by R. The source file of the website is hosted on Github.  Built With  R - R programming language. PowerBI - Microsoft app.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to Joshua Ulrich for his patience and assistance with helping me understand the quantmod, performance analytics and Technical Trading Rules &amp;lsquo;TTR&amp;rsquo; packages.</description>
+            <content type="html"><![CDATA[
+
+<ul>
+<li>Created a PowerBI Fintech app to analyze my personal portfolio.</li>
+<li>Thie BI visualizations are powered by R.</li>
+<li>The source file of the website is hosted on <a href="https://github.com/UTexas80/SPL" target="_blank">Github</a>.</li>
+</ul>
+
+<h2 id="built-with">Built With</h2>
+
+<ul>
+<li><a href="https://www.r-project.org/" target="_blank"><strong>R</strong></a> - R programming language.</li>
+<li><a href="https://powerbi.microsoft.com/en-us/" target="_blank"><strong>PowerBI</strong></a> - Microsoft app.</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This website is licensed under the MIT License - see the <a href="/LICENSE">LICENSE.md</a> file for details.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<ul>
+<li>Thanks to <a href="https://www.patreon.com/joshuaulrich" target="_blank"><strong>Joshua Ulrich</strong></a> for his patience and assistance with helping me understand the <a href="https://cran.r-project.org/web/packages/quantmod/index.html" target="_blank">quantmod</a>, <a href="https://cran.r-project.org/web/packages/PerformanceAnalytics/index.html" target="_blank">performance analytics</a> and <a href="https://cran.r-project.org/web/packages/TTR/index.html" target="_blank">Technical Trading Rules &lsquo;TTR&rsquo;</a> packages.</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

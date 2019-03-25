@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Intelligence on Glen C. Falk</title>
+    <link>/tags/business-intelligence/</link>
+    <description>Recent content in Business Intelligence on Glen C. Falk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerBI Portfolio Analysis</title>
+      <link>/posts/2017/05/powerbi-portfolio-analysis/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2017/05/powerbi-portfolio-analysis/</guid>
+      <description>Created a PowerBI Fintech app to analyze my personal portfolio. Thie BI visualizations are powered by R. The source file of the website is hosted on Github.  Built With  R - R programming language. PowerBI - Microsoft app.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to Joshua Ulrich for his patience and assistance with helping me understand the quantmod, performance analytics and Technical Trading Rules &amp;lsquo;TTR&amp;rsquo; packages.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cv on Glen C. Falk</title>
+    <link>/tags/cv/</link>
+    <description>Recent content in Cv on Glen C. Falk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pagedown cv</title>
+      <link>/posts/2019/02/pagedown-cv/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2019/02/pagedown-cv/</guid>
+      <description>Created a Pagedown Resume for my personal CV. This ongoing process create paged HTML documents for printing from R Markdown. The source file of the website is hosted on Github.  Built With:  pagedown R - R programming language. R Markdown - R Markdown.  License This website is licensed under the MIT License - see the LICENSE.md file for details.
+Acknowledgments  Thanks to:  Yihue Xie and Romain Lesur for the pagedown: Creating Beautiful PDFs with R Markdown + CSS + Your Web Browser presentation.</description>
+    </item>
+    
+  </channel>
+</rss>
