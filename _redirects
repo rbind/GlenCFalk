@@ -1,4 +1,5 @@
 # https://yihui.name/en/2017/11/301-redirect/
+http://glen.c.falk.rbind.io/* https://glen.c.falk.rbind.io/:splat  301!
 
 # Redirect default Netlify subdomain to primary domain
 http://lucid-goldstine-63b32c.netlify.com/* http://glen.c.falk.rbind.io/:splat 301!
