@@ -57,7 +57,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Solutions Engineer"
+  homeSubtitle = "Financial Analyst"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -83,11 +83,11 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/glencfalk"
+    url  = "https://twitter.com/utex80"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:glen.c.falk@utexas.edu"
+    url  = "mailto:glen.falk@utexas.edu"
 
   [[params.social]]
     name = "github"
@@ -95,7 +95,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/glen-falk"
+    url  = "https://www.linkedin.com/in/glenfalk"
 
   [[params.social]]
     name = "stack-overflow"
@@ -103,7 +103,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Solutions Engineer"
+    subtitle  = "Financial Analyst"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
