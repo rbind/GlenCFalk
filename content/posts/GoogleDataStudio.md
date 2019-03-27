@@ -20,10 +20,10 @@ type:
 weight: 10
 ---
 
-Created a [*Google Data Studio dashboard*](https://datastudio.google.com/open/1f1Gj-2N8HtFFJ8uajb7VS9snd_9fIXrQ) linking Avaya Call Management System Supervisor data with financial aid metrics
+Created a *Google Data Studio dashboard* linking Avaya Call Management System Supervisor data with financial aid metrics.
 
 ## Built With
 
-- [**Avaya CMS Supervisor**](https://support.avaya.com/products/P1052/call-management-system-supervisor/) - Avaya CMS Supervisor.
-- [**Google Data Studio**](https://developers.google.com/datastudio/)- Google Data Studio.
+- [**Avaya CMS Supervisor**](https://support.avaya.com/products/P1052/call-management-system-supervisor/).
+- [**Google Data Studio**](https://developers.google.com/datastudio/).
 - [**rbind.io**](https://github.com/rbind) - Community blogs and websites for #rstats.
