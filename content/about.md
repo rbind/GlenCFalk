@@ -33,6 +33,6 @@ Client-focused, results-driven problem-solver with extensive experience in the e
 
 - R, SQL
 
-- ggplot2, googlevis, plotly, RMarkdown and Shiny
+- ggplot2, plotly, RMarkdown and Shiny
 
 - data.table, dplyr, lubridate, quantmod, stringr, xts and zoo  
