@@ -27,7 +27,7 @@ weight: 10
 ---
 
 - Synopsis: 
-  - Each year a [square footage report](https://glencfalk.rbind.io/UGaFMD_FI_SqFtRpt.pdf) is submitted to the Board of Regents Budget Office.
+  - Each year a [square footage report](https://glencfalk.rbind.io/UGaFMD_FI_SqFtRpt.pdf/) is submitted to the Board of Regents Budget Office.
   - This is an opportunity for UGA to amend the reported square footage used for Resident Instruction, or RI.
   - This report is typically due at the end of June.
 
